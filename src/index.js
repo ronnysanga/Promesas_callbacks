@@ -8,3 +8,5 @@ buscarHeroe(heroeId, (heroe)=>{
     console.log(heroe);
 
 });
+
+console.log("Fin del programa");
