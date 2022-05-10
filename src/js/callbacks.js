@@ -8,10 +8,6 @@ const heroes = {
         nombre: "Iroman",
         poder: "dinero"
     },
-    capi: {
-        nombre: "Cap Am",
-        poder: "Inyecciones"
-    },
     Spider: {
         nombre: "Peter",
         poder: "Picar arañas"
